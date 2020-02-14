@@ -1,1 +1,3 @@
 # TreePrune
+HASKERO
+GHCID

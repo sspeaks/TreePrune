@@ -5,4 +5,4 @@ import Data.Tree
 createTree :: [Int] -> Maybe (Tree Char)
 createTree [] = Nothing
 createTree (x:[]) = Just $ Node {rootLabel = x, subForest = []}
-createTree (x:xs) = 
+createTree (x:xs) = undefined
